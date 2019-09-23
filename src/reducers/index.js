@@ -2,10 +2,10 @@ import { combineReducers } from 'redux';
 
 const songsReducer = () => {
     return [
-        {title: 'No Scrubs', duraction: '4:05' },
-        {title: 'Macarena', duraction: '2:30' },
-        {title: 'All Star', duraction: '3:15' },
-        {title: 'I want it that way', duraction: '2:45' }
+        {title: 'No Scrubs', duration: '4:05' },
+        {title: 'Macarena', duration: '2:30' },
+        {title: 'All Star', duration: '3:15' },
+        {title: 'I want it that way', duration: '2:45' }
     ];
 };
 
